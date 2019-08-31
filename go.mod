@@ -18,4 +18,4 @@ require (
 	golang.org/x/sys v0.0.0-20181221143128-b4a75ba826a6 // indirect
 )
 
-replace github.com/nsqio/go-diskqueue => github.com/masknu/go-diskqueue seek
+replace github.com/nsqio/go-diskqueue => github.com/masknu/go-diskqueue v0.1.0
