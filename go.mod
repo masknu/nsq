@@ -17,3 +17,5 @@ require (
 	github.com/stretchr/testify v1.2.2 // indirect
 	golang.org/x/sys v0.0.0-20181221143128-b4a75ba826a6 // indirect
 )
+
+replace github.com/nsqio/go-diskqueue => github.com/masknu/go-diskqueue seek
